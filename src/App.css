@@ -1,0 +1,11 @@
+.card{
+    border: none;
+    color: white;
+    margin-left: 4rem;
+    margin-right: 4rem;
+  
+}
+button > .nav-link{
+background-color: none;
+border: none;
+}
